@@ -31,6 +31,8 @@ Write your narrative here 52,519
 
 Write your narrative below
 
+7
+
 \`3. Copy the code provided in the homework documentation and paste it
 here.
 
