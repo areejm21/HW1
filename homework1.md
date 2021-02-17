@@ -23,7 +23,7 @@ library(ggrepel)
 
 (4 points)
 
-Write your narrative here
+Write your narrative here 52,519
 
 \`2.
 

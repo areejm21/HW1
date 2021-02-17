@@ -27,10 +27,12 @@ library(ggrepel)
 `1.
 
 (4 points)
-```{r}
 
+
+```{r}
 ```
 Write your narrative here
+52,519
 
 
 
