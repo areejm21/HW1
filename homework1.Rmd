@@ -63,8 +63,15 @@ Write your narrative here
 `4.
 
 (10 points)
+```{r}
+seattlepets %>%group_by(species) %>%count(animal_name, sort = TRUE)
+seattlepets %>%count(species, sort = TRUE)
+
+```
+
 
 ```{r species-name-top5, eval=TRUE}
+ seattlepets %>%group_by(species) %>%count(animal_name, sort = TRUE)%>%slice_max(n, n = 5)%>%arrange(species, n)
 
 ```
 
