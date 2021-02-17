@@ -122,7 +122,7 @@ seattlepets %>%count(species, sort = TRUE)
 \`5. What names are more common for cats than dogs? The ones above the
 line or the ones below the line?
 
-Answer here
+Oliver and lily below the line
 
 (4 points)
 
@@ -130,6 +130,6 @@ Answer here
 with a given name and proportion of dogs with a given name) positive or
 negative? What does this mean in context of the data?
 
-Answer here
-
-(4 points)
+Positive ,, if dog names increase the cats names increase also and if
+dogs names Decrease the cats names Decrease also in the same name of
+them (4 points)
