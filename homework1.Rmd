@@ -52,11 +52,13 @@ Write your narrative below
 (4 points)
 
 ```{r}
-
+seattlepets %>%count(animal_name, sort = TRUE)
 ```
 Write your narrative here
 
-
+1.Lucy          
+2.Charlie       
+3.Luna 
 
 `4.
 
